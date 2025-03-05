@@ -1,0 +1,5 @@
+# Ignore Visual Studio Code configurations
+.vscode/
+
+# Ignore all compiled exectuable files
+*.exe
